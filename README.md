@@ -42,7 +42,7 @@ This guide provides instructions for configuring and setting up an osticket syst
 
 <h2>Step 1: Configure Roles</h2>
 <p>Navigate to the Admin Panel and go to Agents -&gt; Roles.</p>
-<p>Click on "Add New Role" and create a role called "Supreme Admin."</p>
+<p>Click on "Add New Role" and create a role called "Admin"</p>
 <p>In the permissions section, ensure that all checkboxes related to tickets, tasks, and knowledge are selected.</p>
 <p>Save the changes.</p>
 
@@ -52,7 +52,7 @@ This guide provides instructions for configuring and setting up an osticket syst
 
 <h2>Step 2: Configure Departments</h2>
 <p>In the Admin Panel, go to Agents -&gt; Departments.</p>
-<p>Click on "Add New Department" and name it "System Administrators."</p>
+<p>Click on "Add New Department" and name it "Administrators."</p>
 <p>Create the department.</p>
 
 <p>
@@ -110,7 +110,7 @@ This guide provides instructions for configuring and setting up an osticket syst
 
 <h2>Step 8: Configure Help Topics</h2>
 <p>Access the Admin Panel and go to Manage -&gt; Help Topics.</p>
-<p>Add new help topics based on the categories you want to offer, such as "Business Critical Outage," "Personal Computer Issues," "Equipment Request," and "Password Reset."</p>
+<p>Add new help topics based on the categories you want to offer, such as "Computer Issues," and "Password Reset."</p>
 <p>Save the help topics.</p>
 
 </body>
