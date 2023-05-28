@@ -112,6 +112,3 @@ This guide provides instructions for configuring and setting up an osticket syst
 <p>Access the Admin Panel and go to Manage -&gt; Help Topics.</p>
 <p>Add new help topics based on the categories you want to offer, such as "Computer Issues," and "Password Reset."</p>
 <p>Save the help topics.</p>
-
-</body>
-</html>
