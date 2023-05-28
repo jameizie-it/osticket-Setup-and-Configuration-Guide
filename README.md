@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/r7UlOH2.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Post-Install Configuration</h1>
+<h1>osticket Setup and Configuration Guide</h1>
 This guide provides instructions for configuring and setting up an osticket system post-installation. It covers essential steps such as role configuration, department setup, team creation, enabling ticket creation for anyone, agent and user management, SLA implementation, and help topic customization. By following these instructions, users can effectively organize their ticketing system and streamline the support process.<br />
 
 <h2>Environments and Technologies Used</h2>
