@@ -37,6 +37,7 @@ This guide provides instructions for configuring and setting up an osticket syst
 <h2>Configuration Steps</h2>
 
 <h2>Step 1: Configure Roles</h2>
+<p>Login here: http://localhost/osTicket/scp/login.php</p>
 <p>Navigate to the Admin Panel and go to Agents -&gt; Roles.</p>
 <p>Click on "Add New Role" and create a role called "Admin"</p>
 <p>In the permissions section, ensure that all checkboxes related to tickets, tasks, and knowledge are selected.</p>
