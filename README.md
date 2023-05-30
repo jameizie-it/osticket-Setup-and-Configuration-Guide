@@ -58,8 +58,8 @@ This guide provides instructions for configuring and setting up an osticket syst
 
 <h2>Step 3: Configure Teams</h2>
 <p>Go to the Admin Panel and select Agents -&gt; Teams.</p>
-<p>Create a new team by providing a name and adding members from different departments.</p>
-<p>Create the team.</p>
+<p>Add New Team. (Within a team, you may add members from different departments).</p>
+<p>Create the team "A-Team".</p>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -67,7 +67,7 @@ This guide provides instructions for configuring and setting up an osticket syst
 
 <h2>Step 4: Allow anyone to create tickets</h2>
 <p>Access the Admin Panel and go to Settings -&gt; User.</p>
-<p>Uncheck the "Registration Required" option under "Require registration and login to create tickets."</p>
+<p>Uncheck the "Registration Required" option under "Require registration (You may now create tickets as random backend users to test the ticket system)."</p>
 <p>Save the changes.</p>
 
 <p>
