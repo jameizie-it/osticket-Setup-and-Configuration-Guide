@@ -44,7 +44,7 @@ This guide provides instructions for configuring and setting up an osticket syst
 <p>Save the changes.</p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ix8sA0u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <h2>Step 2: Configure Departments</h2>
@@ -53,7 +53,7 @@ This guide provides instructions for configuring and setting up an osticket syst
 <p>Create the department.</p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/yHQ2dj2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <h2>Step 3: Configure Teams</h2>
@@ -62,16 +62,16 @@ This guide provides instructions for configuring and setting up an osticket syst
 <p>Create the team "A-Team".</p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HZarwFc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <h2>Step 4: Allow anyone to create tickets</h2>
 <p>Access the Admin Panel and go to Settings -&gt; User.</p>
-<p>Uncheck the "Registration Required" option under "Require registration (You may now create tickets as random backend users to test the ticket system)."</p>
+<p>Uncheck the "Registration Required" option under "Require registration (You may now <a href="http://localhost/osTicket/">create tickets</a> as random backend users to test the ticket system)."</p>
 <p>Save the changes.</p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PqRdOib.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <h2>Step 5: Configure Agents</h2>
@@ -79,10 +79,10 @@ This guide provides instructions for configuring and setting up an osticket syst
 <p>Fill in the agent's name, email, and username.</p>
 <p>Set a password for the agent.</p>
 <p>Assign the agent to a department, specify their roles and access permissions, and add them to any relevant teams.</p>
-<p>Create the agent.</p>
+<p>Create the agent. (You have now created a help desk employee account. You can sign in and deal with tickets with this account).</p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/s2TJG3t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <h2>Step 6: Configure Users</h2>
@@ -91,7 +91,7 @@ This guide provides instructions for configuring and setting up an osticket syst
 <p>Add the user.</p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9yAOPxe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <h2>Step 7: Configure SLA (Service Level Agreement)</h2>
@@ -102,7 +102,7 @@ This guide provides instructions for configuring and setting up an osticket syst
 <p>Save the SLA plan.</p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uPElLSa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <h2>Step 8: Configure Help Topics</h2>
@@ -111,5 +111,5 @@ This guide provides instructions for configuring and setting up an osticket syst
 <p>Save the help topics.</p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cZYfK6N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
