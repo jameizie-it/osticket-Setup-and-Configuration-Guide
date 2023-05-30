@@ -36,10 +36,6 @@ This guide provides instructions for configuring and setting up an osticket syst
 
 <h2>Configuration Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
 <h2>Step 1: Configure Roles</h2>
 <p>Navigate to the Admin Panel and go to Agents -&gt; Roles.</p>
 <p>Click on "Add New Role" and create a role called "Admin"</p>
@@ -112,3 +108,7 @@ This guide provides instructions for configuring and setting up an osticket syst
 <p>Access the Admin Panel and go to Manage -&gt; Help Topics.</p>
 <p>Add new help topics based on the categories you want to offer, such as "Computer Issues," and "Password Reset."</p>
 <p>Save the help topics.</p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
